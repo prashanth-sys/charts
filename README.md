@@ -68,3 +68,38 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Hii nxtwave and probz.AI team 
+my self prashanth kumar reddy 
+
+this is all about my react project how it done with various elements 
+It done though third-party-packeages in react 
+
+Here are some key points about the React.js project with a Line Chart component:
+
+Project Setup: Initialized with create-react-app and added recharts for charting.
+
+Component Structure:
+
+Chart Component: Renders a responsive Line Chart using Recharts library.
+TimeframeSelector: Allows switching between daily, weekly, and monthly data views.
+Data Handling:
+
+Data stored locally in the Chart component.
+Filtered based on selected timeframe (daily, weekly, monthly).
+Styling:
+
+Responsive design using CSS media queries.
+Adjusted chart height and font sizes for different screen sizes.
+Functionality:
+
+Clickable buttons in TimeframeSelector update the displayed timeframe.
+Tooltip on the chart shows detailed data on hover.
+Deployment:
+
+Suitable for deployment on various devices due to responsive design.
+Uses create-react-app for easy deployment and management.
+This setup ensures a scalable and responsive React.js application with interactive charting capabilities. 
+
+Thankyou 
